@@ -4,7 +4,7 @@
   </h1>
   <p style="font-size: 1.2em; margin-bottom: 25px; color: #dce3f0;">You're visitor number:</p>
   <div style="background: rgba(255,255,255,0.1); border-radius: 12px; padding: 15px 25px; display: inline-block; backdrop-filter: blur(6px); box-shadow: 0 4px 15px rgba(0,0,0,0.2); animation: pulse 2s infinite;">
-    <img src="https://komarev.com/ghpvc/?username=abulhasan0815&color=02d410&style=plastic" alt="Visitor Count" style="height: 40px; filter: drop-shadow(0 0 5px #00c6ff);" />
+    <img src="https://komarev.com/ghpvc/?username=abulhasan0815&label=Token Number&color=02d410&style=plastic" alt="Visitor Count" style="height: 40px; filter: drop-shadow(0 0 5px #00c6ff);" />
   </div>
   <p style="margin-top: 30px; font-size: 1em; color: #9fb8c8;">Thanks for stopping by 💫</p>
   
