@@ -3,7 +3,7 @@
     👋 Hey, Amazing Visitor!
     <p>I am Abul</p>
   </h1>
-  <p style="font-size: 24px; margin-bottom: 25px; color: #cfe8ff;">AI/ML Enthusiasts<br>You are visitor number:</p>
+  <p style="font-size: 54px; margin-bottom: 25px; color: #cfe8ff;">AI/ML Enthusiasts<br>You are visitor number:</p>
   <div style="background: rgba(255,255,255,0.05); border: 1px solid rgba(0,255,204,0.2); border-radius: 16px; padding: 18px 30px; display: inline-block; backdrop-filter: blur(10px); box-shadow: 0 0 25px rgba(0,255,204,0.2);">
     <img src="https://komarev.com/ghpvc/?username=abulhasan0815&label=Your%20Badge%20Number&color=28E630&style=for-the-badge" alt="Visitor Count" style="height: 45px; filter: drop-shadow(0 0 8px #00ffcc);" />
   </div>
