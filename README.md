@@ -3,14 +3,13 @@
     👋 Hey, Amazing Visitor!
     <p>I am Abul</p>
   </h1>
-  <p style="font-size: 1.3em; margin-bottom: 25px; color: #cfe8ff;">You are visitor number:</p>
+  <h3 align="center">MUN CS Student, AI/ML enthusiasts learning, debugging and having fun. Building on projects.</h3>
+  <h3 style="font-size: 1.3em; margin-bottom: 25px; color: #cfe8ff;">You are visitor number:</h3>
   <div style="background: rgba(255,255,255,0.05); border: 1px solid rgba(0,255,204,0.2); border-radius: 16px; padding: 18px 30px; display: inline-block; backdrop-filter: blur(10px); box-shadow: 0 0 25px rgba(0,255,204,0.2);">
     <img src="https://komarev.com/ghpvc/?username=abulhasan0815&label=Your%20Badge%20Number&color=28E630&style=for-the-badge" alt="Visitor Count" style="height: 45px; filter: drop-shadow(0 0 8px #00ffcc);" />
   </div>
-  <p style="margin-top: 30px; font-size: 1.05em; color: #9fb8c8;">Thanks for stopping by 💫</p>
+  <h3 style="margin-top: 30px; font-size: 1.05em; color: #9fb8c8;">Thanks for stopping by 💫</h3>
 </div>
-
-<h3 align="center">MUN CS Student, AI/ML enthusiasts learning, debugging and having fun. Building on projects.</h3>
 
 - 🔭 I’m currently working on **Sales Dashboard SQL Project**
 
