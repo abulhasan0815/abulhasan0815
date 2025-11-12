@@ -7,18 +7,11 @@
   <p style="font-size: 1.2em; margin-bottom: 25px; color: #dce3f0;">You're visitor number:</p>
   
   <div style="background: rgba(255,255,255,0.1); border-radius: 12px; padding: 15px 25px; display: inline-block; backdrop-filter: blur(6px); box-shadow: 0 4px 15px rgba(0,0,0,0.2); animation: pulse 2s infinite;">
-    <img src="https://profile-counter.glitch.me/abulhasan0815/count.svg" alt="Visitor Count" style="height: 40px; filter: drop-shadow(0 0 5px #00c6ff);" />
+    <img src="https://komarev.com/ghpvc/?username=abulhasan0815&label=Profile%20views&style=plastic" alt="Visitor Count" style="height: 40px; filter: drop-shadow(0 0 5px #00c6ff);" />
   </div>
   
   <p style="margin-top: 30px; font-size: 1em; color: #9fb8c8;">Thanks for stopping by 💫</p>
   
-  <style>
-    @keyframes pulse {
-      0% { transform: scale(1); box-shadow: 0 0 10px rgba(0,198,255,0.4); }
-      50% { transform: scale(1.05); box-shadow: 0 0 25px rgba(0,198,255,0.7); }
-      100% { transform: scale(1); box-shadow: 0 0 10px rgba(0,198,255,0.4); }
-    }
-  </style>
 </div>
 
 
