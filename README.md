@@ -18,7 +18,7 @@
 
 <h3 align="left">I am a MUN CS Student, AI/ML enthusiast learning, debugging, and having fun. Building projects.</h3>
 
-<img align="right" width="200" src="assets/GET it DONE!!!.gif">
+<img align="right" width="200" src="https://github.com/abulhasan0815/abulhasan0815/blob/main/assets/Get%20it%20DONE!!!.gif">
 
 - 🔭 I’m currently working on **Sales Dashboard SQL Project**  
 - 🌱 I’m currently learning **AI/ML, AI Agent with ADK — whatever makes me better.**  
