@@ -1,57 +1,18 @@
-<div align="center" style="
-  font-family: 'Poppins', sans-serif; 
-  background: linear-gradient(135deg, #0a0f1f, #1c2b3a, #283e51); 
-  color: white; 
-  padding: 50px 30px; 
-  border-radius: 24px; 
-  width: 85%; 
-  max-width: 650px; 
-  margin: auto; 
-  box-shadow: 0 10px 35px rgba(0, 255, 204, 0.2); 
-  position: relative;
-">
-
-  <h1 style="
-    font-size: 2.6em; 
-    margin-bottom: 10px; 
-    letter-spacing: 1px; 
-    background: linear-gradient(90deg, #00ffcc, #00b3ff); 
-    -webkit-background-clip: text; 
-    -webkit-text-fill-color: transparent;
-  ">
-    👋 Hey, Incredible Visitor!
+<div align="center" style="font-family: 'Poppins', sans-serif; background: linear-gradient(135deg, #0a0f1f, #1c2b3a, #283e51); color: white; padding: 50px 30px; border-radius: 24px; width: 85%; max-width: 650px; margin: auto; box-shadow: 0 10px 35px rgba(0, 255, 204, 0.2); overflow: hidden; position: relative;">
+  
+  <h1 style="font-size: 2.8em; margin-bottom: 12px; letter-spacing: 1px; background: linear-gradient(90deg, #00ffcc, #00b3ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    👋 Hey, Amazing Visitor!
   </h1>
-
-  <p style="
-    font-size: 1.2em; 
-    margin-bottom: 25px; 
-    color: #cfe8ff;
-  ">
-    You are visitor number:
-  </p>
-
-  <div style="
-    background: rgba(255,255,255,0.08); 
-    border: 1px solid rgba(0,255,204,0.3); 
-    border-radius: 16px; 
-    padding: 18px 30px; 
-    display: inline-block; 
-    box-shadow: 0 0 20px rgba(0,255,204,0.4), inset 0 0 10px rgba(0,255,204,0.3);
-  ">
-    <img src="https://komarev.com/ghpvc/?username=abulhasan0815&label=Your%20Token%20Number&color=00ffcc&style=for-the-badge" 
-         alt="Visitor Count" 
-         style="height: 45px; filter: drop-shadow(0 0 8px #00ffcc);" />
+  
+  <p style="font-size: 1.3em; margin-bottom: 25px; color: #cfe8ff;">You are visitor number:</p>
+  
+  <div style="background: rgba(255,255,255,0.05); border: 1px solid rgba(0,255,204,0.2); border-radius: 16px; padding: 18px 30px; display: inline-block; backdrop-filter: blur(10px); box-shadow: 0 0 25px rgba(0,255,204,0.2); animation: glowPulse 3s infinite ease-in-out;">
+    <img src="https://komarev.com/ghpvc/?username=abulhasan0815&label=Your%20Token%20Number&color=00ffcc&style=for-the-badge" alt="Visitor Count" style="height: 45px; filter: drop-shadow(0 0 8px #00ffcc);" />
   </div>
 
-  <p style="
-    margin-top: 30px; 
-    font-size: 1.05em; 
-    color: #9fb8c8;
-  ">
-    Thanks for visiting — you make this space shine 🌟
-  </p>
-
+  <p style="margin-top: 30px; font-size: 1.05em; color: #9fb8c8;">Thanks for stopping by 💫</p>
 </div>
+
 
 
 
