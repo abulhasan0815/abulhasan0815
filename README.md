@@ -1,4 +1,4 @@
-
+<div align="center" style="font-family: 'Poppins', sans-serif; background: linear-gradient(135deg, #0a0f1f, #1c2b3a, #283e51); color: white; padding: 50px 30px; border-radius: 24px; width: 85%; max-width: 650px; margin: auto; box-shadow: 0 10px 35px rgba(0, 255, 204, 0.2); position: relative;">
   <h1 style="font-size: 2.8em; margin-bottom: 12px; letter-spacing: 1px; background: linear-gradient(90deg, #00ffcc, #00b3ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
     👋 Hey, Amazing Visitor!
     <p>I am Abul</p>
@@ -8,6 +8,7 @@
   <div style="background: rgba(255,255,255,0.05); border: 1px solid rgba(0,255,204,0.2); border-radius: 16px; padding: 18px 30px; display: inline-block; backdrop-filter: blur(10px); box-shadow: 0 0 25px rgba(0,255,204,0.2);">
     <img src="https://komarev.com/ghpvc/?username=abulhasan0815&label=Your%20Badge%20Number&color=28E630&style=for-the-badge" alt="Visitor Count" style="height: 45px; filter: drop-shadow(0 0 8px #00ffcc);" />
   </div>
+</div>
 
 <h3 align="center">I am a MUN CS Student, AI/ML enthusiasts learning, debugging and having fun. Building on projects.</h3>
 
