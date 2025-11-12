@@ -18,7 +18,7 @@
 
 <h3 align="left">I am a MUN CS Student, AI/ML enthusiast learning, debugging, and having fun. Building projects.</h3>
 
-<img align="right" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmkxdjFrcXZodHVwd3djN242bmdwMG1odXoyNHJscWZwYXBhM2lqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/toXKzaJP3WIgM/giphy.gif">
+<img align="right" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmkxdjFrcXZodHVwd3djN242bmdwMG1odXoyNHJscWZwYXBhM2lqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/toXKzaJP3WIgM/giphy.gif">
 
 - 🔭 I’m currently working on **Sales Dashboard SQL Project**  
 - 🌱 I’m currently learning **AI/ML, AI Agent with ADK — whatever makes me better.**  
