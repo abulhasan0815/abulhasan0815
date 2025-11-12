@@ -3,13 +3,10 @@
   <h1 style="font-size: 2.8em; margin-bottom: 12px; letter-spacing: 1px; background: linear-gradient(90deg, #00ffcc, #00b3ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
     👋 Hey, Amazing Visitor!
   </h1>
-  
   <p style="font-size: 1.3em; margin-bottom: 25px; color: #cfe8ff;">You are visitor number:</p>
-  
   <div style="background: rgba(255,255,255,0.05); border: 1px solid rgba(0,255,204,0.2); border-radius: 16px; padding: 18px 30px; display: inline-block; backdrop-filter: blur(10px); box-shadow: 0 0 25px rgba(0,255,204,0.2); animation: glowPulse 3s infinite ease-in-out;">
-    <img src="https://komarev.com/ghpvc/?username=abulhasan0815&label=Your%20Token%20Number&color=00ffcc&style=for-the-badge" alt="Visitor Count" style="height: 45px; filter: drop-shadow(0 0 8px #00ffcc);" />
+    <img src="https://komarev.com/ghpvc/?username=abulhasan0815&label=Your%20Token%20Number&color=28E630&style=for-the-badge" alt="Visitor Count" style="height: 45px; filter: drop-shadow(0 0 8px #00ffcc);" />
   </div>
-
   <p style="margin-top: 30px; font-size: 1.05em; color: #9fb8c8;">Thanks for stopping by 💫</p>
 </div>
 
