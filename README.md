@@ -2,15 +2,15 @@
   <h1 style="font-size: 2.8em; margin-bottom: 12px; letter-spacing: 1px; background: linear-gradient(90deg, #00ffcc, #00b3ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
     👋 Hey, Amazing Visitor!
     <p>I am Abul</p>
-    <p>AI/ML Enthusiasts</p>
   </h1>
-  <h3 style="font-size: 1.3em; margin-bottom: 25px; color: #cfe8ff;">You are visitor number:</h3>
+  <h3 style="font-size: 1.3em; margin-bottom: 25px; color: #cfe8ff;">AI/ML Enthusiasts
+  <p>You are visitor number:</p></h3>
   <div style="background: rgba(255,255,255,0.05); border: 1px solid rgba(0,255,204,0.2); border-radius: 16px; padding: 18px 30px; display: inline-block; backdrop-filter: blur(10px); box-shadow: 0 0 25px rgba(0,255,204,0.2);">
     <img src="https://komarev.com/ghpvc/?username=abulhasan0815&label=Your%20Badge%20Number&color=28E630&style=for-the-badge" alt="Visitor Count" style="height: 45px; filter: drop-shadow(0 0 8px #00ffcc);" />
   </div>
 </div>
 
-<h3 align="center">I am a MUN CS Student, AI/ML enthusiasts learning, debugging and having fun. Building on projects.</h3>
+<h3 align="left">I am a MUN CS Student, AI/ML enthusiasts learning, debugging and having fun. Building on projects.</h3>
 
 - 🔭 I’m currently working on **Sales Dashboard SQL Project**
 
