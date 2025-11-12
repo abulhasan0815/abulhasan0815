@@ -1,9 +1,7 @@
 <div align="center">
   <p>Hey Visitor Number 👋</p>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/abulhasan0815&count_bg=%2379C83D&title_bg=%23555555&title=visits&edge_flat=false" alt="Visitor's Count" />
+  <img src="https://komarev.com/ghpvc/?username=abulhasan0815&label=Profile%20views&color=0e75b6&style=flat" alt="abulhasan0815" />
 </div>
-
-![Visitor Count](https://profile-counter.glitch.me/https://github.com/abulhasan0815/count.svg)
 <!--
 **abulhasan0815/abulhasan0815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
