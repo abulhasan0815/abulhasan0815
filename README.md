@@ -42,9 +42,10 @@
   <img 
     class="visitor-img" 
     src="https://komarev.com/ghpvc/?username=abulhasan0815&label=Profile%20Views&color=00c3ff&style=for-the-badge" 
-    alt="abulhasan0815"
+    alt="Visitor Counter"
   />
 </div>
+
 
 <!--
 **abulhasan0815/abulhasan0815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
