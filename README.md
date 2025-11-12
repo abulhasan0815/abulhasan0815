@@ -1,7 +1,7 @@
 <div align="center" style="font-family:'Poppins',sans-serif; background:linear-gradient(135deg,#0a0f1f,#16222A,#283E51); color:white; padding:50px 30px; border-radius:24px; width:85%; max-width:700px; margin:auto; box-shadow:0 8px 35px rgba(0,255,204,0.15);">
 
   <h1 style="font-size:2.6em; margin-bottom:10px; background:linear-gradient(90deg,#00ffcc,#00b3ff); -webkit-background-clip:text; -webkit-text-fill-color:transparent;">
-    👋 Hey, Amazing Visitor! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="75">
+    👋 Hey, Amazing Visitor! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="5">
     <br><span style="font-size:0.7em; font-weight:400;">I am <b>Abul</b></span>
   </h1>
 
