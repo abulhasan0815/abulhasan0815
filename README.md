@@ -1,7 +1,6 @@
-## Hi there 👋
 <div align="center"> 
-  <p>Visitor Number</p>
-  <img src="https://profile-counter.glitch.me/abulhasan0815/count.svg" alt="Hey Visitor Number" />
+  <p>Hey Visitor Number👋</p>
+  <img src="https://profile-counter.glitch.me/abulhasan0815/count.svg" alt="Visitor's Count" />
 </div>
 <!--
 **abulhasan0815/abulhasan0815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
