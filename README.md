@@ -13,31 +13,6 @@
   margin: 40px auto;
   animation: fadeIn 1.5s ease-in-out;
 ">
-  <style>
-    @keyframes fadeIn {
-      0% { opacity: 0; transform: translateY(20px); }
-      100% { opacity: 1; transform: translateY(0); }
-    }
-    @keyframes pulse {
-      0%, 100% { transform: scale(1); }
-      50% { transform: scale(1.08); }
-    }
-    .visitor-title {
-      font-size: 2rem;
-      font-weight: 600;
-      margin-bottom: 10px;
-      letter-spacing: 1px;
-      text-shadow: 2px 2px 10px rgba(0,0,0,0.3);
-      animation: pulse 3s infinite ease-in-out;
-    }
-    .visitor-img {
-      transition: transform 0.3s ease;
-    }
-    .visitor-img:hover {
-      transform: scale(1.1) rotate(2deg);
-    }
-  </style>
-
   <p class="visitor-title">Hey Visitor Number 👋</p>
   <img 
     class="visitor-img" 
