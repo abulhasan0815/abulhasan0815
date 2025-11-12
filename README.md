@@ -18,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on **any project(any opportunity, literally anything))**
 
-- 📫 How to reach me <a href="https://www.linkedin.com/in/abulhasan0815/" target="_blank" style="text-decoration:none;">Ding Dong🔔</a>
+- 📫 How to reach me <a href="https://www.linkedin.com/in/abulhasan0815/" target="_blank" style="text-decoration: none !important;">Ding Dong🔔</a>
 
 - ⚡ Fun fact **I think I am an observer(I am actually Hasan. Abul Hasan🕵️)**
 
