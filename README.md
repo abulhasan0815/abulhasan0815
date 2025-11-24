@@ -18,13 +18,14 @@
 
 <h3 align="left">I am a MUN CS Student, AI/ML enthusiast learning, debugging, and having fun. Building projects.</h3>
 
-<img align="right" width="200" src="https://github.com/abulhasan0815/abulhasan0815/blob/main/assets/Get%20it%20DONE!!!.gif">
+<img align="right" width="250" src="https://github.com/abulhasan0815/abulhasan0815/blob/main/assets/Get%20it%20DONE!!!.gif">
 
 - 🔭 I’m currently working on **Sales Dashboard SQL Project**  
 - 🌱 I’m currently learning **AI/ML, AI Agent with ADK — whatever makes me better.**  
 - 👯 I’m looking to collaborate on **any project (any opportunity, literally anything)**  
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/abulhasan0815/" target="_blank">Ding Dong 🔔</a>  
-- ⚡ Fun fact: **I think I am an observer (I am actually Hasan. Abul Hasan 🕵️)**  
+- ⚡ Fun fact: **I think I am an observer (I am actually Hasan. Abul Hasan 🕵️)**
+- 📄[View My Resume](https://github.com/iamrishigandhi/iamrishigandhi/blob/main/assets/Abul_Hasan_Resume.pdf)
 
 ---
 
