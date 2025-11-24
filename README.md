@@ -1,20 +1,11 @@
 <div align="center" style="font-family:'Poppins',sans-serif; background:linear-gradient(135deg,#0a0f1f,#16222A,#283E51); color:white; padding:50px 30px; border-radius:24px; width:85%; max-width:700px; margin:auto; box-shadow:0 8px 35px rgba(0,255,204,0.15);">
 
-  <h1 style="font-size:2.6em; margin-bottom:10px; background:linear-gradient(90deg,#00ffcc,#00b3ff); -webkit-background-clip:text; -webkit-text-fill-color:transparent;">
+  <h1 style="font-size:2.6em; margin-bottom:10px; background:linear-gradient(90deg,#00ffcc,#00b3ff); -webkit-background-clip:text; -webkit-text-fill-color:transparent; padding:100px;">
     👋 Hey, Amazing Visitor! <img src="https://github.com/abulhasan0815/abulhasan0815/blob/main/assets/welcome.gif" width="60">
+    <img src="https://komarev.com/ghpvc/?username=abulhasan0815&label=Your%20Are%20Visitor%20Number&color=28E630&style=for-the-badge" alt="Visitor Count" style="height:42px; filter:drop-shadow(0 0 6px #00ffcc);" />
     <p></p>
-    <p> <img src="https://github.com/abulhasan0815/abulhasan0815/blob/main/assets/header-banner.png"> </p>
+    <p> <img src="https://github.com/abulhasan0815/abulhasan0815/blob/main/assets/github-header-banner.png"> </p>
   </h1>
-
-  ### **AI/ML Enthusiast**  
-  ### **You are visitor number:**
-  <p style="font-size:1.2em; margin-bottom:20px; color:#cfe8ff;">
-  </p>
-
-  <div style="background:rgba(255,255,255,0.05); border:1px solid rgba(0,255,204,0.25); border-radius:16px; padding:14px 25px; display:inline-block; backdrop-filter:blur(8px); box-shadow:0 0 20px rgba(0,255,204,0.15);">
-    <img src="https://komarev.com/ghpvc/?username=abulhasan0815&label=Your%20Number&color=28E630&style=for-the-badge" alt="Visitor Count" style="height:42px; filter:drop-shadow(0 0 6px #00ffcc);" />
-  </div>
-
 </div>
 
 <h3 align="left">I am a MUN CS Student, AI/ML enthusiast learning, debugging, and having fun. Building projects.</h3>
