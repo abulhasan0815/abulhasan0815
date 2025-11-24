@@ -3,7 +3,7 @@
   <h1 style="font-size:2.6em; margin-bottom:10px; background:linear-gradient(90deg,#00ffcc,#00b3ff); -webkit-background-clip:text; -webkit-text-fill-color:transparent;">
     👋 Hey, Amazing Visitor! <img src="https://github.com/abulhasan0815/abulhasan0815/blob/main/assets/welcome.gif" width="60">
     <p></p>
-    <p> <img src="https://github.com/abulhasan0815/abulhasan0815/blob/main/assets/github-header-ba.png"> </p>
+    <p> <img src="https://github.com/abulhasan0815/abulhasan0815/blob/main/assets/header-banner.png"> </p>
   </h1>
 
   ### **AI/ML Enthusiast**  
