@@ -5,13 +5,13 @@
     <br><span style="font-size:0.7em; font-weight:400;">I am <b>Abul</b></span>
   </h1>
 
+  ### **AI/ML Enthusiast**  
+  ### **You are visitor number:**
   <p style="font-size:1.2em; margin-bottom:20px; color:#cfe8ff;">
-    AI/ML Enthusiast  
-    <br>You are visitor number:
   </p>
 
   <div style="background:rgba(255,255,255,0.05); border:1px solid rgba(0,255,204,0.25); border-radius:16px; padding:14px 25px; display:inline-block; backdrop-filter:blur(8px); box-shadow:0 0 20px rgba(0,255,204,0.15);">
-    <img src="https://komarev.com/ghpvc/?username=abulhasan0815&label=Your%20Badge%20Number&color=28E630&style=for-the-badge" alt="Visitor Count" style="height:42px; filter:drop-shadow(0 0 6px #00ffcc);" />
+    <img src="https://komarev.com/ghpvc/?username=abulhasan0815&label=Your%20Number&color=28E630&style=for-the-badge" alt="Visitor Count" style="height:42px; filter:drop-shadow(0 0 6px #00ffcc);" />
   </div>
 
 </div>
