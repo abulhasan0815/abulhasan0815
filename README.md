@@ -70,8 +70,9 @@
   <span align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abulhasan0815&show_icons=true&theme=tokyonight&layout=compact&locale=en" alt="Top Languages" width="355px"/>
   </span>
-
   <span align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=abulhasan0815&show_icons=true&theme=tokyonight&layout=compact&locale=en" alt="GitHub Stats"/>
   </span>
 </p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abulhasan0815&theme=cobalt" alt="abulhasan0815" /></p>
