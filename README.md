@@ -66,10 +66,10 @@
 
 <h3 align="center" style="margin-top:30px; color:#9fb8c8;">✨ Thanks for stopping by 💫</h3>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abulhasan0815&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abulhasan0815&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abulhasan0815&show_icons=true&locale=en" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abulhasan0815&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
 </p>
