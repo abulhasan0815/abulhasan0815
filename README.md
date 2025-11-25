@@ -71,7 +71,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abulhasan0815&show_icons=true&theme=tokyonight&layout=compact&locale=en" alt="Top Languages" width="355px"/>
   </span>
   <span align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=abulhasan0815&show_icons=true&theme=tokyonight&layout=compact&locale=en" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=abulhasan0815&count_private=true&show_icons=true&theme=tokyonight&layout=compact&locale=en" alt="GitHub Stats"/>
   </span>
 </p>
 
