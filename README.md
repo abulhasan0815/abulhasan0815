@@ -68,7 +68,7 @@
 
 <p align="center">
   <span align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abulhasan0815&show_icons=true&theme=tokyonight&layout=compact&locale=en" alt="Top Languages" width="355px"/>
+  <img src="https://github-readme-stats-five-rouge-68.vercel.app/api/top-langs?username=abulhasan0815&show_icons=true&theme=tokyonight&layout=compact&locale=en" alt="Top Languages" width="355px"/>
   </span>
   <span align="right">
   <img src="https://github-stats-abul.vercel.app/api?username=abulhasan0815&show_icons=true&rank_icon=github&theme=tokyonight&count_private=true&layout=compact&locale=en" alt="GitHub Stats"/>
