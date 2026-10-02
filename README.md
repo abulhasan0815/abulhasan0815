@@ -2,6 +2,7 @@
 
   <h1 style="font-size:2.6em; margin-bottom:10px; background:linear-gradient(90deg,#00ffcc,#00b3ff); -webkit-background-clip:text; -webkit-text-fill-color:transparent; padding:100px;">
     👋 Hey, Amazing Visitor! <img src="https://github.com/abulhasan0815/abulhasan0815/blob/main/assets/welcome.gif" width="60">
+    <img src="https://komarev.com/ghpvc/?username=abulhasan0815&label=Your%20Are%20Visitor%20Number&color=28E630&style=for-the-badge" alt="Visitor Count" style="height:42px; filter:drop-shadow(0 0 6px #00ffcc);" />
   </h1>
 </div>
 
